@@ -1,13 +1,12 @@
 # AUY1105 - INFRAESTRUCTURA COMO CÓDIGO II
 
-# REVISIÓN DE CONFORMIDAD CON AUDITORÍA AUTOMATIZADA  
+# REVISIÓN DE CONFORMIDAD CON AUDITORÍA AUTOMATIZADA
 
 ## DESARROLLO DE ACTIVIDAD
 
 ### 1. Revisar el Pull Request (PR)
 
-- Accede al [Pull Request](https://github.com/Fundacion-Instituto-Profesional-Duoc-UC/AUY1105-Infraestructura-como-codigo-II/pull/2).
-- Examina el resultado del [Action](https://github.com/Fundacion-Instituto-Profesional-Duoc-UC/AUY1105-Infraestructura-como-codigo-II/actions/runs/12086934336/job/33707311144) en el paso **Run Checkov for Security Analysis**
+- Revisa el historial de cambios y el workflow de auditoría del repositorio de la actividad.
 
 ### 2. Modificar el GitHub Action
 
